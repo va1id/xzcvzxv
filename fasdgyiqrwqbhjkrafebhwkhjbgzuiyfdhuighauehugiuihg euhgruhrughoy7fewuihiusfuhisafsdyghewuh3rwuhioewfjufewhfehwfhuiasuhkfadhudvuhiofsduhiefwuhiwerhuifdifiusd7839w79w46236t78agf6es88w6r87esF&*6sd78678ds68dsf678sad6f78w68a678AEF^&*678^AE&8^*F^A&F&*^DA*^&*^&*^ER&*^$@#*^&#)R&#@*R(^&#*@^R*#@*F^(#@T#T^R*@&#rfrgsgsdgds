@@ -1,0 +1,30 @@
+// ==UserScript==
+// @name        Ruin Software | The upcoming script for kirka.io, punishing any other clients.
+// @namespace   https://discord.gg/ENHYznSPmM
+// @version      3.0
+// @description Our offical website is here: https://ruin.software-co.repl.co, this means, if you see any other websites trying to pose like us, we can garunatee its not us.
+// @author      soul.wtf
+// @icon        https://ruin.software-co.repl.co/Ruins.png
+// @grant       none
+// @run-at      document-start
+// @require     https://cdn.jsdelivr.net/npm/three@0.155.0/build/three.min.js#sha256-ec0a84377f1dce9d55b98f04ac7057376fa5371c33ab1cd907b85ae5f18fab7e
+// @require     https://cdn.jsdelivr.net/npm/three-mesh-bvh@0.6.3/build/index.umd.cjs#sha256-4781a92a7e9b459164f7f1c4a78f14664ced5d853626640ce3f0aac4d01daf10
+// @require https://github.com/va1id/ItsUseless/blob/main/ITriedButToNoAvail
+// @match       https://kirka.io/*
+
+// ==/UserScript==
+
+
+
+
+
+
+
+// CODE IS STORED INTO A REQUIRE, DON'T BE RETARDED.
+
+// CODE IS STORED INTO A REQUIRE, DON'T BE RETARDED.
+
+// CODE IS STORED INTO A REQUIRE, DON'T BE RETARDED.
+
+
+
